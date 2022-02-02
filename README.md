@@ -1,4 +1,4 @@
-Dev Portfolio template
+Portfolio template
 
 Thanks to Ryan Fitzgerald
 
